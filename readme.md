@@ -1,0 +1,3 @@
+# Computing projects for part IB
+
+The files included in this repository are the files submitted for the 6 sessions of the computational projects in the part IB course. These are separated into their own directories and are combined as they were not deemed worthy of their own separate repositories. The complexity of these projects ranges from simple implementations of functions in ```binomial.cc``` to use of complex classes in ```bonker.cc```. While these projects are mostly exercises in ```c++``` programming, for the later projects, ```gnuplot``` is also explored as a tool to plot results obtained from the programmes.
